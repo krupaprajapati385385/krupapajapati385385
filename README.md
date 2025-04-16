@@ -33,20 +33,10 @@
 - **Tools:** Git, GitHub, VS Code, VirtualBox, Ubuntu  
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
-- [LinkedIn](#) (add your profile link)
-- [Portfolio](#) (if you have one or planning to build)
-
+- [LinkedIn](#) (www.linkedin.com/in/krupa-prajapati-2427ba279)
+  
 ---
 
 *“Always curious, always coding 💫”*

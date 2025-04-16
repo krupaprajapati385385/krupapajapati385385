@@ -1,5 +1,5 @@
 # krupapajapati385385
-<h1 align="center">Hi there, I'm Nevaara 👋</h1>
+<h1 align="center">Hi there, I'm Krupa 👋</h1>
 
 <p align="center">
   🎓 MSc IT Student (3rd Year) &nbsp|&nbsp 🐍 Python Enthusiast &nbsp|&nbsp 🌐 Web Dev Learner  
